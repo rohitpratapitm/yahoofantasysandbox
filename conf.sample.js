@@ -1,5 +1,0 @@
-module.exports = {
-  'APP_KEY': 'APP KEY GOES HERE',
-  'APP_SECRET': 'APP SECRET GOES HERE',
-  'APP_URL': 'APP URL GOES HERE'
-};
